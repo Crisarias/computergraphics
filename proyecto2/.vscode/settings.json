@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "stdbool.h": "c",
+        "unistd.h": "c",
+        "sampleintersections": "cpp",
+        "universal_world.h": "c",
+        "anchors": "cpp"
+    }
+}

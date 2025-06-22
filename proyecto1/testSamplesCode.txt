@@ -1,0 +1,98 @@
+
+// Can use this code to Test the functionality on proyecto.c
+
+Add this to print_pixel function:
+
+printf("Print pixel at (%d,%d)\n", x, y);
+
+Comment all the code inside draw_lines.
+
+Add this to main function:
+
+// Shallow Diagonal
+
+// Line line1;
+// line1.x0 = 9;
+// line1.y0 = 9;
+// line1.x1 = 0;
+// line1.y1 = 6;
+
+// Line line2;
+// line2.x0 = 0;
+// line2.y0 = 4;
+// line2.x1 = 9;
+// line2.y1 = 9;
+
+// Steep Diagonal
+
+// Line line1;
+// line1.x0 = 0;
+// line1.y0 = 9;
+// line1.x1 = 4;
+// line1.y1 = 0;
+
+// Line line2;
+// line2.x0 = 4;
+// line2.y0 = 0;
+// line2.x1 = 0;
+// line2.y1 = 9;
+
+// Horizontal
+
+// Line line1;
+// line1.x0 = 0;
+// line1.y0 = 4;
+// line1.x1 = 9;
+// line1.y1 = 4;
+
+// Line line2;
+// line2.x0 = 9;
+// line2.y0 = 4;
+// line2.x1 = 0;
+// line2.y1 = 4;
+
+// Vertical
+
+// Line line1;
+// line1.x0 = 4;
+// line1.y0 = 0;
+// line1.x1 = 4;
+// line1.y1 = 9;
+
+// Line line2;
+// line2.x0 = 4;
+// line2.y0 = 9;
+// line2.x1 = 4;
+// line2.y1 = 0;
+
+// Octants 8 and 2
+
+// Line line1;
+// line1.x0 = 0;
+// line1.y0 = 7;
+// line1.x1 = 9;
+// line1.y1 = 0;
+
+// Line line2;
+// line2.x0 = 9;
+// line2.y0 = 0;
+// line2.x1 = 0;
+// line2.y1 = 7;
+
+// Octants 5 and 4
+
+// Line line1;
+// line1.x0 = 7;
+// line1.y0 = 9;
+// line1.x1 = 0;
+// line1.y1 = 0;
+
+// Line line2;
+// line2.x0 = 0;
+// line2.y0 = 0;
+// line2.x1 = 7;
+// line2.y1 = 9;
+
+// draw_line_bresenham(&line1);
+// printf("\n\n");
+// draw_line_bresenham(&line2);

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Scene_front.svg"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#e6ffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.48083261"
+     inkscape:cx="643.67515"
+     inkscape:cy="545.92803"
+     inkscape:window-width="1920"
+     inkscape:window-height="1163"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#502d16;stroke-width:0.252538"
+       id="rect1"
+       width="1027.2263"
+       height="29.898315"
+       x="459.29147"
+       y="639.68323" />
+    <ellipse
+       style="fill:#ffeeaa"
+       id="path1"
+       cx="721.66479"
+       cy="308.83929"
+       rx="106.06602"
+       ry="100.8667" />
+    <ellipse
+       style="fill:#ffeeaa"
+       id="path1-9"
+       cx="1175.0249"
+       cy="303.31546"
+       rx="106.06602"
+       ry="100.8667" />
+    <ellipse
+       style="fill:#ffeeaa"
+       id="path1-2"
+       cx="162.69667"
+       cy="580.29907"
+       rx="116.21146"
+       ry="106.87304" />
+    <ellipse
+       style="fill:#ffeeaa"
+       id="path1-2-9"
+       cx="1767.2815"
+       cy="571.47443"
+       rx="116.21146"
+       ry="106.87304" />
+    <path
+       style="fill:#333333"
+       d="M 719.58514,205.89286 813.1728,2.0797258 H 590.64214 Z"
+       id="path2" />
+    <path
+       style="fill:#333333"
+       d="M 1177.8517,207.65368 1271.4394,3.8405483 H 1048.9087 Z"
+       id="path2-3" />
+  </g>
+</svg>

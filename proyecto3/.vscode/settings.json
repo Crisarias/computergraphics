@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "universal_world.h": "c",
+        "cmath": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "stdbool.h": "c",
+        "cstdlib": "c"
+    }
+}
